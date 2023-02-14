@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **************
 
-<img align="left" src="./sticker.png" width="240px"> 
+<img align="left" src="./sticker.png" width="220px"> 
 
 <p>Sou Desenvolvedora Web Full-Stack em formação pelo bootcamp de Programação Web Full Stack Integral da Labenu, onde aprendo sobre as principais habilidades técnicas de frontend e backend. Tenho graduação em Engenharia Civil, área de estudo que me identifiquei durante grande parte da minha vida, porque tenho grande interesse pelas ciências exatas, pela solução de problemas e pelo processo de construção e materialização de ideais.
 <br>
