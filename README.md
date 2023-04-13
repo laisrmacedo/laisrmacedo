@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left" src="./sticker.png" width="220px"> 
 
-<p>Sou Desenvolvedora Web Full-Stack em formação pelo bootcamp de Programação Web Full Stack Integral da Labenu, onde aprendo sobre as principais habilidades técnicas de frontend e backend. Tenho graduação em Engenharia Civil, área de estudo que me identifiquei durante grande parte da minha vida, porque tenho grande interesse pelas ciências exatas, pela solução de problemas e pelo processo de construção e materialização de ideais.
+<p>Sou Desenvolvedora Web Full-Stack formada pelo bootcamp de Programação Web Full Stack Integral da Labenu, onde aprendi sobre as principais habilidades técnicas de frontend e backend. Tenho graduação em Engenharia Civil, área de estudo que me identifiquei durante grande parte da minha vida, porque tenho grande interesse pelas ciências exatas, pela solução de problemas e pelo processo de construção e materialização de ideais.
 <br>
 
 Encontrei na Programação um novo universo de possibilidades, um espaço convidativo onde ao mesmo tempo que me sinto confortável, sinto também o empolgante incômodo do novo e enorme desafio a ser enfrentado. Felizmente, este ambiente desconhecido e intimidador está se tornando progressivamente familiar. </p>
@@ -45,6 +45,9 @@ Encontrei na Programação um novo universo de possibilidades, um espaço convid
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d" title='NodeJS'/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d" title='Express'/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='mysql'/>
+	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='jest'/>
+	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='postman'/>
+	
   <img height="40" width="40" src="https://cdn.simpleicons.org/git/fd428d" title='git'/></p></div>
 </div>
 
