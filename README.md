@@ -45,11 +45,11 @@ Encontrei na Programação um novo universo de possibilidades, um espaço convid
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/fd428d" title='NodeJS'/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/express/fd428d" title='Express'/> 
   <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='mysql'/>
-	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='jest'/>
-	<img height="40" width="40" src="https://cdn.simpleicons.org/mysql/fd428d" title='postman'/>
-	
-  <img height="40" width="40" src="https://cdn.simpleicons.org/git/fd428d" title='git'/></p></div>
-</div>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/jest/fd428d" title='jest'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/postman/fd428d" title='postman'/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/git/fd428d" title='git'/>
+</p>
+
 
 *******************
 
