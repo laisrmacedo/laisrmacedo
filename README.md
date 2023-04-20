@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there! I'm Lais <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Full Stack Web Developer</h3> 
+<p align="center">🇧🇷 Brazilian in Germany 🇩🇪</p>
 
 <!--
 **laisrmacedo/laisrmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
