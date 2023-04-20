@@ -28,12 +28,6 @@ In recent months, I have improved my knowledge and experience by developing seve
 
 ***************	
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laisrmacedo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laisrmacedo&layout=compact&langs_count=8&theme=radical"/>
-<div>	
-	
-	
 <h3 align="center">Knowledge:</h3>
 <p align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/fd428d" title='JavaScript'/> 
@@ -51,6 +45,10 @@ In recent months, I have improved my knowledge and experience by developing seve
   <img height="40" width="40" src="https://cdn.simpleicons.org/git/fd428d" title='git'/>
 </p>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laisrmacedo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laisrmacedo&layout=compact&langs_count=8&theme=radical"/>
+<div>	
 
 *******************
 <h3 align="center">Available to chat!</h3>
